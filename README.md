@@ -3,7 +3,7 @@
 
 This is a simple **Spotify web clone** created using **HTML** and **CSS** only. It replicates the look and feel of Spotify's user interface and serves as a front-end UI practice project. No JavaScript or backend functionality is included.
 
-![Screenshot](assets/screenshot.jpeg)
+![Screenshot](assets/screenshot.png)
 
 ## 🚀 Features
 
