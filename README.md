@@ -82,8 +82,8 @@ The demo includes **30 tracks** across three categories:
 ### **Quick Start**
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/spotify-clone.git
-   cd spotify-web-player-clone
+   git clone https://github.com/kvs-rishikesh/spotify-clone.git
+   cd spotify-clone
    ```
 
 2. **Open in browser:**
@@ -160,9 +160,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 👨💻 Author
 
 **Your Name**  
-- GitHub: [@your-username](https://github.com/kvs-rishikesh)
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/hellosatyaa)
+- GitHub: [@kvs-rishikesh](https://github.com/kvs-rishikesh)
+- Email: kvsrishikesh@hotmail.com
+- LinkedIn: [Satya Rishikesh](https://linkedin.com/in/hellosatyaa)
 
 ## 🙏 Acknowledgments
 
